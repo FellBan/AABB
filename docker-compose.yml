@@ -1,6 +1,6 @@
  danmuji: # 变更命名
     image: zzcabc/danmuji
-    container_name: danmuji # 变更容器名
+    container_name: dashabixioxix # 变更容器名
     restart: always
     privileged: true
     environment:
