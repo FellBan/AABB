@@ -1,6 +1,6 @@
 services:
   qiandao:
-    image: a76yyyy/qiandao
+    image: qdtoday/qd:latest
     ports:
       - 8080:80
     volumes:
